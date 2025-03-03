@@ -1,0 +1,30 @@
+* {
+  box-sizing: border-box;
+  font-family: Arial, sans-serif;
+}
+
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #c2edda;
+}
+
+/* Brightly Orange Number 2: #f43a09
+Grandpa Orange: #ffb766
+Grey Blue Green: #c2edda
+Live Green: #68d388 */
+
+
+.gallery {
+  width: 80%;
+  height: 20%;
+}
+
+.row {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
